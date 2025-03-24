@@ -5,7 +5,7 @@
 🌱 I’m currently learning **Cryptography, CyberSecurity, PHP**  
 📩 How to reach me: [khushwantrajpurohit2004@gmail.com](mailto:khushwantrajpurohit2004@gmail.com)  
 📄 All about me: [_Khushwant-PORTFOLIO_](#)  
-⚡ Fun fact: **I think I'm a Veteran 😆**  
+
 
 ---
 
