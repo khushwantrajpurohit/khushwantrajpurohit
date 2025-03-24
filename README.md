@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi there, I'm Khuswhant Rajpirohit! 👋  
+# Hi there, I'm Khuswhant Rajpurohit! 👋  
 
 🌱 I’m currently learning **Cryptography, CyberSecurity, PHP**  
 📩 How to reach me: [khushwantrajpurohit2004@gmail.com](mailto:khushwantrajpurohit2004@gmail.com)  
