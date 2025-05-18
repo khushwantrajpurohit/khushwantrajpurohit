@@ -2,7 +2,6 @@
 
 # Hi there, I'm Khuswhant Rajpurohit! 👋  
 
-🌱 I’m currently learning **Cryptography, CyberSecurity, PHP**  
 📩 How to reach me: [khushwantrajpurohit2004@gmail.com](mailto:khushwantrajpurohit2004@gmail.com)  
 📄 All about me: [_Khushwant-PORTFOLIO_](#)  
 
@@ -53,7 +52,5 @@
 
 ---
 
-## 🖼️ Cybersecurity Engineer Vibes  
-<img src="https://source.unsplash.com/400x300/?cybersecurity,hacker,technology" width="400px">
-Here are some ideas to get you started:
+
 
